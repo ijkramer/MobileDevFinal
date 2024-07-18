@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQtmUUvW8J3x8bTZfnrW+/fhLHcLso0YzPxB4543ab0RS6EvonbzSjWYOWKHK5eIcAZeczUeyQvzHs9KtKBe0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glowi\\IdeaProjects\\MobileDevFinal\\Greenhouse\\Greenhouse.iOS\\Greenhouse.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glowi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\glowi\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\glowi\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
